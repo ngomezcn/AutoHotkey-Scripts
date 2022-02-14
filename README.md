@@ -8,5 +8,5 @@ To make it run automatically:
 
 or
 
-1. ```C:\Users\[user]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup```
+1. Open the path in the file explorer: ```C:\Users\[user]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup```
 3. Copy script to folder
