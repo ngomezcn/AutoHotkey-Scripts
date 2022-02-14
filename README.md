@@ -1,11 +1,12 @@
 # AutoHotkey-Scripts
 
 
-To make it run automatically when start, put the scripts in the following folder:
+To make it run automatically:
 1. windows+r 
-2. search: shell:startup 
-3. copy script to folder
+2. Search: shell:startup 
+
 
 or
 
 1. C:\Users\[user]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+3. Copy script to folder
