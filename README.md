@@ -2,7 +2,7 @@
 
 
 To make it run automatically:
-1. windows+r 
+1. Press shortcut: Windows+R 
 2. Search: shell:startup 
 
 
