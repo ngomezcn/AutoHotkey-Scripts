@@ -4,6 +4,7 @@
 To make it run automatically:
 1. Press shortcut: ```Windows+R ```
 2. Search: ```shell:startup ```
+3. Copy script to folder
 
 or
 
