@@ -1,7 +1,7 @@
 # AutoHotkey-Scripts
 
 
-To make it run automatically:
+To make it run on startup:
 1. Press shortcut: ```Windows+R ```
 2. Search: ```shell:startup ```
 3. Copy script to folder
